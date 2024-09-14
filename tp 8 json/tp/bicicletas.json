@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "marca" : "Fierce",
+        "modelo" : "FM18SI29AM211",
+        "rodado" : 16,
+        "anoDeFabricacion" : 2019,
+        "color" : "Celeste",
+        "pesoEnKg" : 13,
+        "tipo" : "Montañera",
+        "precio" : 3802.50,
+        "vendida" : "si"
+    },
+    {
+        "id" : 2,
+        "marca" : "Shifter",
+        "modelo" : "FM18F29AM210",
+        "rodado" : 26,
+        "anoDeFabricacion" : 2020,
+        "color" : "Negro",
+        "pesoEnKg" : 15,
+        "tipo" : "Paseo",
+        "precio" : 2915.00,
+        "vendida" : "no"
+    },
+    {
+        "id" : 3,
+        "marca" : "SLP",
+        "modelo" : "Techno",
+        "rodado" : 28,
+        "anoDeFabricacion" : 2021,
+        "color" : "Gris",
+        "pesoEnKg" : 16,
+        "tipo" : "Retro",
+        "precio" : 2915.00,
+        "vendida" : "no"
+    }
+]
