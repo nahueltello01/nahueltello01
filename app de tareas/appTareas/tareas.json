@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Completar el curso de programación",
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "nombre": "Finalizar rodaje de '1-2-1'",
+    "estado": "finalizada"
+  },
+  {
+    "id": 3,
+    "nombre": "Empezar CV interactivo en Bitsy",
+    "estado": "pendiente"
+  },
+  {
+    "id": 4,
+    "nombre": "Terminar con los ejercicios",
+    "estado": "finalizada"
+  },
+  {
+    "id": 5,
+    "nombre": "Ir a la clase de hoy",
+    "estado": "pendiente"
+  },
+  {
+    "id": 6,
+    "nombre": "Hacer ejercicio",
+    "estado": "finalizada"
+  }
+]
